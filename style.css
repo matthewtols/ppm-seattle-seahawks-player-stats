@@ -1,6 +1,7 @@
 
 html {
   width: 700px;
+}
   
 p {
   color: purple;
@@ -8,3 +9,4 @@ p {
 
 table, tr, td {
   border: 1px solid black;
+}
