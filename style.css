@@ -2,6 +2,10 @@
 html {
   width: 700px;
 }
+
+h1 {
+  color:blue;
+}
   
 p {
   color: purple;
