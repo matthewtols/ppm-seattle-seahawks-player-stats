@@ -1,16 +1,21 @@
 
 html {
   width: 700px;
+  margin: 20px auto;
+  padding: 5px;
+  text-align: center;
 }
 
 h1 {
   color:blue;
+  font-size: 25px;
 }
   
 p {
-  color: purple;
+  color: black;
+  font-size: 15px
 }
 
 table, tr, td {
-  border: 1px solid black;
+  border: 3px solid black;
 }
