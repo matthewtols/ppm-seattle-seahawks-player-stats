@@ -22,3 +22,7 @@ p {
 table, tr, td {
   border: 3px solid black;
 }
+
+.goals {
+  cell-size: 55px;
+}
