@@ -26,3 +26,9 @@ table, tr, td {
 .goals {
   cell-size: 55px;
 }
+
+.table {
+  text-align: left;
+  margin: 0px auto 0px auto;
+  background-color: white;
+}
